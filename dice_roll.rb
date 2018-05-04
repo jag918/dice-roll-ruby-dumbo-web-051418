@@ -6,3 +6,5 @@ def roll
   # code goes here
   puts(Random.rand(1,7))
 end
+
+roll

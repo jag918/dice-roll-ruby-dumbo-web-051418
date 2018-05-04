@@ -4,7 +4,8 @@
 
 def roll
   # code goes here
-  1+Random.rand(6)
+  rollAmt = 1+Random.rand(6)
+  rollAmt
 end
 
 roll

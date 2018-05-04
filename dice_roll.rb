@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  rand(1,7)
+  Random.rand(1,7)
 end

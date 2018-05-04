@@ -4,7 +4,7 @@
 
 def roll
   # code goes here
-  puts(Random.rand(1,7))
+  1+Random.rand(6)
 end
 
 roll
